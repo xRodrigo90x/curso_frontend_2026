@@ -1,4 +1,4 @@
-# 🚀 Bootcamp Desarrollo Full Stack - Ejercicios de Clase
+# 🚀 Bootcamp Desarrollo Full Stack - Ejercicios de Lecciones
 
 ¡Bienvenidos al repositorio oficial de ejercicios! Aquí encontrarán todo el código que vayamos desarrollando durante las distintas lecciones. Este espacio está diseñado para que puedan consultar, repasar y practicar lo aprendido en cada módulo.
 
